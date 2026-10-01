@@ -11,4 +11,5 @@ wheels/
 
 # secrets
 .streamlit/secrets.toml
+.streamlit
 **/secrets.toml
